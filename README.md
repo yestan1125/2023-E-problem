@@ -9,3 +9,7 @@
 喜欢的话欢迎支持  
 github主页[主页](https://github.com/simplemaxq)  
 bilibili主页[主页](https://space.bilibili.com/419762243?spm_id_from=333.880.0.0)
+
+
+以下为 TI_labortory 寒假集训任务
+[Uploading OPENCV任务（软件）.pdf…]()
